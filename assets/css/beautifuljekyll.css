@@ -1124,3 +1124,26 @@ pre {
     display: inline-block;
   }
 }
+
+/* --- Skills --- */
+
+.skills-category {
+  margin-bottom: 1em;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.35em 0.65em;
+  font-size: 0.85em;
+  color: #fff;
+  background-color: #4f9ec4;
+  border-radius: 0.25rem;
+  margin: 0.2em;
+}
+.skills-category h3 {
+  margin-top: 0.8em;
+}
+
+.badge:hover {
+  background-color: #3a7fa3;
+}
