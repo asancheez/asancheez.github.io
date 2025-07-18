@@ -20,10 +20,11 @@ author: Antonio Sánchez
 ###############################################
 
 navbar-links:
+  Projects: "projects"
   About Me: "aboutme"
   # Resources:
-  # Projects: "https://deanattali.com"
-  # Resumee: "https://deanattali.com"
+
+  # Resumee: ""
 
 ################
 # --- Logo --- #
