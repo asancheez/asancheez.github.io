@@ -15,7 +15,6 @@ Since then, I’ve been working as a **DevOps Engineer**, driven by a strong pas
 ## 💼 Work Experience
 
 ### **DevOps Engineer/System Administrator – GMV**
-
 *Madrid, Spain | Sep 2025 – Present*
 
 - Analyze infrastructure needs, with special attention to security.
@@ -26,7 +25,6 @@ Since then, I’ve been working as a **DevOps Engineer**, driven by a strong pas
 - Managing CI/CD pipelines and artifact provisioning (**Nexus**, **Terraform**, **GitLab**, etc.).
 
 ### **DevOps Engineer – GRyCAP**
-
 *Valencia, Spain | May 2023 – Aug 2025*
 
 - Automated cloud deployments by designing and updating **TOSCA recipes**, **Ansible roles, modules and playbooks**, ensuring consistent and repeatable infrastructure provisioning.
@@ -38,7 +36,6 @@ Since then, I’ve been working as a **DevOps Engineer**, driven by a strong pas
 - Participated in project meetings, prepared demos and reports and delivered technical documentation.
 
 ### **Frontend Developer – BiiT Sourcing Solutions**
-
 *Valencia, Spain | Sep 2021 – Feb 2022*
 
 - Improved web application usability by working on frontend development with **Angular**, delivering a responsive and user-friendly interface.
