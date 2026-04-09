@@ -7,39 +7,44 @@ permalink: /aboutme
 ## My story
 
 I studied **Computer Engineering** at the *Universitat Politècnica de València* and graduated in 2021.  
-After that, I completed a **Master’s degree in Big Data Analytics** at the same university, which sparked my interest in cloud technologies.  
-Since then, I’ve been working as a **DevOps Engineer**, driven by a strong passion for cloud platforms, automation and infrastructure as code.
+After that, I completed a **Master’s degree in Big Data Analytics** at the same university, which strengthened my interest in cloud computing and data-driven systems.  
+Since then, I have been working as a **DevOps Engineer**, focusing on automation, infrastructure management and building reliable platforms.
 
 ---
 
 ## 💼 Work Experience
 
-### **DevOps Engineer/System Administrator – GMV**
+### **DevOps Engineer / System Administrator – GMV**
 *Madrid, Spain | Sep 2025 – Present*
 
-- Analyze infrastructure needs, with special attention to security.
-- Managing hardware, software and networks.
-- Selecting, updating and validating DevOps systems and tools.
-- Ensuring availability and scalability of physical and virtualized environments (**Proxmox**, **VMware**).
-- Implementing and maintaining Infrastructure as Code solutions (**Ansible**, **Puppet**).
-- Managing CI/CD pipelines and artifact provisioning (**Nexus**, **Terraform**, **GitLab**, etc.).
+- Provide platform and infrastructure support to a team of **26 engineers across 6 projects**, ensuring high availability and reliability of services.
+- Design and manage **virtualized environments using Proxmox**, including provisioning, configuration and lifecycle management of Linux virtual machines.
+- Lead the **automation of operational processes using Ansible**, developing reusable playbooks and improving existing infrastructure code.
+- Manage containerized applications using **Docker Compose**, handling deployments, updates and incident resolution.
+- Improve system security by **migrating applications from HTTP to HTTPS**, managing TLS certificates and secure communications.
+- Implement monitoring and observability solutions with **Prometheus and Grafana**, building dashboards to track system health and performance.
+- Develop scripts and tools to **automate repetitive tasks**, reducing manual work and operational errors.
+- Troubleshoot and resolve incidents across **infrastructure, systems and applications**, ensuring service continuity.
+- Manage **artifact repositories (Sonatype Nexus)**, supporting CI/CD workflows across multiple projects.
+- Contribute to **infrastructure improvements**, including hardware upgrades and resource optimization.
+- Validate **COTS software requirements** and ensure environments meet project dependencies.
 
 ### **DevOps Engineer – GRyCAP**
 *Valencia, Spain | May 2023 – Aug 2025*
 
-- Automated cloud deployments by designing and updating **TOSCA recipes**, **Ansible roles, modules and playbooks**, ensuring consistent and repeatable infrastructure provisioning.
-- Accelerated software delivery by implementing **CI/CD pipelines in Jenkins**, streamlining deployment cycles and minimizing manual intervention.
-- Designed a **Grafana dashboard** to visualize deployments managed through [Infrastructure Manager](https://im.egi.eu/im-dashboard/login), enabling real-time monitoring and resource utilization.
-- Built a **JupyterLab extension** integrating Notebook 7 with Infrastructure Manager, allowing cloud infrastructure deployment directly from Jupyter.
-- Enhanced Infrastructure Manager by developing **Python-based features**: TOSCA recipe editor, cost calculation panel and **OAI-PMH protocol** integration, improving interoperability.
-- Developed automated testing suites for the [**OSCAR platform**](https://oscar.grycap.net/) using **Robot Framework**, increasing reliability across API, CLI and dashboards.
-- Participated in project meetings, prepared demos and reports and delivered technical documentation.
+- Automated cloud deployments using **TOSCA** and **Ansible**, ensuring consistent and reproducible infrastructure provisioning.
+- Implemented **CI/CD pipelines in Jenkins**, reducing manual deployment effort and improving delivery speed.
+- Designed **Grafana dashboards** to monitor infrastructures managed through [Infrastructure Manager](https://im.egi.eu/im-dashboard/login).
+- Developed a **JupyterLab extension** to deploy cloud infrastructures directly from notebooks.
+- Extended Infrastructure Manager with **Python-based features** (TOSCA editor, cost estimation, OAI-PMH integration).
+- Built automated test suites for the [**OSCAR platform**](https://oscar.grycap.net/) using **Robot Framework**.
+- Participated in project meetings and delivered technical documentation and demos.
 
 ### **Frontend Developer – BiiT Sourcing Solutions**
 *Valencia, Spain | Sep 2021 – Feb 2022*
 
-- Improved web application usability by working on frontend development with **Angular**, delivering a responsive and user-friendly interface.
-- Increased code reliability by writing **unit tests in Java**.
+- Contributed to frontend development using **Angular**, improving usability and user experience.
+- Increased code reliability by implementing **unit tests in Java**.
 
 ---
 
@@ -48,11 +53,11 @@ Since then, I’ve been working as a **DevOps Engineer**, driven by a strong pas
 **Master’s Degree in Big Data Analytics**  
 *Universidad Politécnica de València (UPV), Valencia, Spain | Sep 2022 – Feb 2023*
 
-- Developed a keen interest in cloud computing, gaining hands-on experience with **AWS** and data analysis tools.
+- Developed a strong interest in cloud computing, working with **AWS** and data analysis tools.
 
 **Bachelor’s Degree in Computer Science**  
 *Universidad Politécnica de València (UPV), Valencia, Spain*
 
-- Specialized in **Information Technologies**, learning about databases, networks and systems architecture.
+- Specialized in **Information Technologies**, with focus on databases, networking and systems architecture.
 
 ---
