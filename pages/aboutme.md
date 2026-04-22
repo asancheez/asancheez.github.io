@@ -20,7 +20,8 @@ Since then, I have been working as a **DevOps Engineer**, focusing on automation
 - Provide platform and infrastructure support to a team of **26 engineers across 6 projects**, ensuring high availability and reliability of services.
 - Design and manage **virtualized environments using Proxmox**, including provisioning, configuration and lifecycle management of Linux virtual machines.
 - Lead the **automation of operational processes using Ansible**, developing reusable playbooks and improving existing infrastructure code.
-- Manage containerized applications using **Docker Compose**, handling deployments, updates and incident resolution.
+- Manage and operate containerized environments using **Docker Compose** and **Docker Swarm**, including service deployment, updates and incident resolution.
+- Configure **Traefik** as a reverse proxy, implementing dynamic routing, HTTPS (TLS) and service exposure in containerized infrastructures.
 - Improve system security by **migrating applications from HTTP to HTTPS**, managing TLS certificates and secure communications.
 - Implement monitoring and observability solutions with **Prometheus and Grafana**, building dashboards to track system health and performance.
 - Develop scripts and tools to **automate repetitive tasks**, reducing manual work and operational errors.
